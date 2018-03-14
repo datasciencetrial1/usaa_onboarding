@@ -1,4 +1,2 @@
-dill
-enum34
-pyzipcode
-numba
+xgboost
+scikit-plot
