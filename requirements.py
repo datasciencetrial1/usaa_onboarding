@@ -1,2 +1,2 @@
-xgboost==0.4a30
+xgboost
 scikit-plot
